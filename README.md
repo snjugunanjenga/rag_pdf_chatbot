@@ -1,7 +1,6 @@
 ## Create Virtual Environment:
 
-````bash
+```bash
 python -m venv myenv
 myenv/scripts/activate
-bash ```
-````
+```
