@@ -9,5 +9,7 @@ langchain-community
 pandas
 
 
-
-
+faiss-cpu
+wikipedia
+sentence-transformers
+transformers
